@@ -1,4 +1,4 @@
-package org.curso.buildingblock;
+package org.curso.operators;
 
 public class KindOperatorMain {
 

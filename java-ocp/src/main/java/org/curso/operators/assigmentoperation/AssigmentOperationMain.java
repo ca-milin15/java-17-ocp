@@ -1,4 +1,4 @@
-package org.curso.buildingblock.assigmentoperation;
+package org.curso.operators.assigmentoperation;
 
 public class AssigmentOperationMain {
 
